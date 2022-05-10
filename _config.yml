@@ -10,7 +10,7 @@ name: Eraldo Silva Junior
 title: Dev
 email: esilvaju@protonmail.com
 # email_title: Email (Email title override)
-phone: 
+# phone: 
 # phone_title: Phone (Phone title override)
 website: esilvaju.github.io
 # website_title: Web (Website title override)
@@ -19,11 +19,11 @@ website: esilvaju.github.io
 darkmode: true
 
 # Social links
-twitter_username: esilvaju
+twitter_username: esilvaju1
 github_username:  esilvaju
-stackoverflow_username: "esilvaju"
-facebook_username: esilvaju
-instagram_username: esilvaju
+# stackoverflow_username: "esilvaju"
+# facebook_username: esilvaju
+# instagram_username: esilvaju
 linkedin_username: eraldojunior
 orcid_username: 0000-0001-7760-9197
 
